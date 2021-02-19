@@ -1,0 +1,306 @@
+// 50 perguntas
+
+1. O que significa HTML?
+Hyper Links and Text Markup Language
+Hyper Text Markup Language
+Home Tool Markup Language
+
+2.Quem está criando os padrões da Web?
+Mozila 
+Microsoft 
+The world wide web Consortium - CERTO
+Google
+
+3.Escolha o elemento HTML correto para o título maior:
+
+<heading>
+<h6>
+<h1> - CERTO
+<head>
+
+4.Qual é o elemento HTML correto para inserir uma quebra de linha?
+<br>
+<lb>
+<break>
+<td>
+
+5.Qual é o HTML correto para adicionar uma cor de fundo?
+<body bg="yellow">
+<body style="background-color:yellow;">
+<background>yellow</background>
+
+6.Escolha o elemento HTML correto para definir o texto importante
+<important>
+<b>
+<i>
+<strong>
+
+7.Escolha o elemento HTML correto para definir o texto enfatizado
+<em>
+<italic>
+<i>
+
+8.Qual é o HTML correto para criar um hiperlink?
+<a name="http://www.facebook.com">facebook.com</a>
+<a>http://www.facebook.com</a>
+<a href="http://www.facebook.com">facebook</a>
+<a url="http://www.facebook.com">facebook.com</a>
+
+9.Qual caractere é usado para indicar uma tag final?
+*
+<
+^
+/
+
+10.Como você pode abrir um link em uma nova guia / janela do navegador?
+<a href="url" target="_blank">
+<a href="url" new>
+<a href="url" target="new">
+<a http="site" target="window">
+
+11.Quais desses elementos são todos elementos <table>?
+<table><tr><tt>
+<table><head><tfoot>
+<table><tr><td> - CERTO
+<thead><body><tr>
+
+12.Os elementos "inline" são normalmente exibidos sem iniciar uma nova linha.
+Verdadeiro - CERTO
+Falso
+Não sei o que é inline
+Às vezes
+
+13.Como você pode fazer uma lista numerada?
+<list>
+<ol>
+<ul>
+<dl>
+
+14.Como você pode fazer uma lista com marcadores?
+<dl>
+<ul>
+<list>
+<ol>
+
+15.Qual é o HTML correto para marcar uma caixa de seleção?
+<checkbox>
+<input type="checkbox"> - CERTO
+<input type="check">
+<check>
+
+16. Qual é o HTML correto para criar um campo de entrada de texto?
+<input type="text"> - CERTO
+<textinput type="text">
+<textfield>
+<input type="textfield">
+
+17.Qual é o HTML correto para fazer uma lista suspensa?
+<input type="list">
+<select> - CERTO
+<input type="dropdown">
+<list>
+
+18.Qual é o HTML correto para criar uma área de texto?
+<textarea> - CERTO
+<inserttext>
+<input type="textbox">
+<input type="textarea">
+
+19.Qual é o HTML correto para inserir uma imagem?
+<img src="imagem.png" alt"Minhaimagem"> - CERTO
+<img alt"Minhaimagem">imagem.png</img>
+<img href="imagem.png" alt"Minhaimagem">
+<image src="imagem.png" alt"Minhaimagem">
+
+20.Qual é o HTML correto para inserir uma imagem de fundo?
+<background img="background.png">
+<body bg="background.png">
+<body style="background-image:url(background.png)"> - CERTO
+<body style="background.png">
+
+21.Um <iframe> é usado para exibir uma página da web dentro de uma página da web.
+Verdadeiro - CERTO
+Falso
+Não existe <iframe>
+Não sei o que é <iframe>
+
+22. Comentários HTML começam com <!-- e terminam com -->
+Falso
+A HTML não tem comentários
+Não sei o que são comentários
+Verdadeiro - CERTO
+
+23.Os elementos com display "block" são normalmente exibidos sem iniciar uma nova linha.
+Verdadeiro
+O que são elementos de bloco
+Falso -CERTO
+Não existem elemento de bloco
+
+24.Qual elemento HTML define o título de um documento?
+<meta>
+<title> - CERTO
+<head>
+<p>
+
+25.Qual atributo HTML especifica um texto alternativo para uma imagem, se a imagem não puder ser exibida?
+title
+longdesc
+src
+alt - CERTO
+
+26.Which doctype is correct for HTML5?
+<!DOCTYPE html> - CERTO
+<!DOCTYPE HTML5>
+<!DOCTYPE HTML PUBLIC "-/facebook HTML5">
+<!HTML5>
+
+27. Qual elemento HTML é usado para especificar um rodapé para um documento ou seção?
+<section>
+<bottom>
+<footer> - CERTO
+<abr>
+
+28.Em HTML, você pode incorporar elementos SVG diretamente em uma página HTML.
+Falso
+Verdadeiro - CERTO
+Não tenho a certeza
+O que é SVG
+
+29.Qual é o elemento HTML correto para reproduzir arquivos de vídeo?
+<movie>
+<media>
+<video> - CERTO
+<audio>
+
+30. Qual é o elemento HTML correto para reproduzir arquivos de áudio?
+<audio> - CERTO
+<mp3>
+<sound>
+<mp4>
+
+31.O atributo global HTML, "contenteditable" é usado para:
+atualizar o conteúdo do servidor
+
+especificar se o conteúdo de um elemento deve ser editável ou não - CERTO
+
+especifica um menu de contexto para um elemento. O menu aparece quando um usuário clica com o botão direito no elemento
+
+retorna a posição do primeiro elemento encontrado ocorrência de conteúdo dentro de uma string
+
+32.Em HTML, onblur e onfocus são:
+Elementos HTML
+Atributos de evento - CERTO
+Atributos de estilizaçã
+Tags
+
+33.Os gráficos definidos por SVG estão em qual formato?
+CSS - CERTO
+XML
+HTML
+XHTML
+
+34.O elemento HTML <canvas> é usado para:
+Manipular dados em MySQL
+criar elementos arrastáveis - CERTO
+exibir registros de banco de dados
+desenhar gráficos
+
+
+35.Em HTML, qual atributo é usado para especificar que um campo de entrada deve ser preenchido?
+validate
+formvalidate
+placeholder
+required - CERTO
+
+36.Qual tipo de entrada define um controle deslizante?
+controls 
+search
+range - CERTO
+slider
+
+37.Qual elemento HTML é usado para exibir uma medida escalar dentro de um intervalo?
+<range>
+<measure>
+<gauge>
+<meter> - CERTO
+
+38.Qual elemento HTML define os links de navegação?
+<navigation>
+<nav> - CERTO
+<navigate>
+<navicator>
+
+39.In HTML, what does the <aside> element define?
+conteúdo além do conteúdo da página
+
+lista de navegação a ser mostrada no lado esquerdo da página - CERTO
+
+O conjunto de caracteres ACII para enviar informações entre computadores na internet
+
+eu não sei
+
+40.Qual elemento HTML é usado para especificar um cabeçalho para um documento ou seção?
+<top>
+<head>
+<section>
+<header>
+
+41. O que significa CSS?
+Creative Style Sheets
+Computer Style Sheets
+Cascading Style Sheets - CERTO
+Colorful Style Sheets
+
+42.Qual é o HTML correto para se referir a uma folha de estilo externa?
+<link rel="stylesheet" type="text/css" href="meuestilo.css"> - CERTO
+<style src="meuestilo.css">
+<stylesheet>meuestilo.css</stylesheet>
+<cascading>meuestilo.css</cascading>
+
+43. Onde em um documento HTML é o local correto para se referir a uma folha de estilo externa?
+Na secção <body>
+No final do documento
+Na secção <head>
+Dentro da tag <p>
+
+44.Qual tag HTML é usada para definir uma folha de estilo interna?
+<internal>
+<css>
+<style> - CERTO
+<script>
+
+45.Qual atributo HTML é usado para definir estilos embutidos?
+class
+style - CERTO
+font
+styles
+
+46.Qual é a sintaxe CSS correta?
+body:color=black;
+{body;color:black;}
+body{color:black;} - CERTO
+{body:color=black;}
+
+47.Como você insere um comentário em um arquivo CSS?
+// Isso é um comentário
+' Isso é um comentário
+/* Isso é um comentário */ - CERTO
+// Isso é um comentário //
+
+48.Qual propriedade é usada para alterar a cor de fundo?
+background-color - CERTO
+color
+bgcolor
+backcolor
+
+49. Como você adiciona uma cor de fundo para todos os elementos <h1>?
+h1 {background-color: #FFFFFF} - CERTO
+h1.all {background-color: #FFFFFF}
+all.h1 {background-color: #FFFFFF}
+every.h1 {background-color: #FFFFFF}
+
+50.Qual propriedade CSS é usada para alterar a cor do texto de um elemento?
+text-color
+color - CERTO
+fgcolor
+elementcolor
